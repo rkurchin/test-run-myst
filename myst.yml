@@ -4,45 +4,29 @@ project:
   title: La Palma Seismicity 2021
   subtitle: An analysis of earthquake swarms in relation to the 2021 eruption
   authors:
-    - id: spurves
-      name: Steve Purves
-      orcid: 0000-0002-0760-5497
+    - id: rkurchin
+      name: Rachel C. Kurchin
+      orcid: 0000-0002-2147-4809
       corresponding: true
-      email: steve@curvenote.com
+      email: rkurchin@cmu.edu
       roles:
         - Investigation
         - Project administration
         - Software
         - Visualization
       affiliations:
-        - curvenote
-    - id: rcockett
-      name: Rowan Cockett
-      orcid: 0000-0002-7859-8394
-      corresponding: false
-      role: Project administration
-      affiliations:
-        - curvenote
+        - cmu
   affiliations:
-    - id: curvenote
-      name: Curvenote Inc.
-      department: Publications Team
-      country: Canada
-      url: https://curvenote.com
-      email: support@curvenote.com
-      phone: 123-456-7890
-      fax: 123-456-7891
-  github: https://github.com/Notebooks-Now/submission-myst-full/
+    - id: cmu
+      name: Carnegie Mellon University
+      department: Materials Science and Engineering
+      country: USA
+      url: https://www.cmu.edu
+  github: https://github.com/rkurchin/test-run-myst
   open_access: true
   license:
     content: CC-BY-SA-4.0
     code: MIT
-  funding:
-    - statement: Supported by Notebooks Now! at AGU
-      id: 10070
-      source:
-        - name: Alfred P. Sloan Foundation
-          doi: http://dx.doi.org/10.13039/100000879
   subject: Original Submission
   venue:
     title: Notebooks Now!
